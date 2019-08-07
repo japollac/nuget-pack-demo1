@@ -1,0 +1,9 @@
+C:\Users\japollac\source\repos\nuget-pack-demo1\bin\Debug\netstandard2.0\NugetPackDemo.deps.json
+C:\Users\japollac\source\repos\nuget-pack-demo1\bin\Debug\netstandard2.0\NugetPackDemo.dll
+C:\Users\japollac\source\repos\nuget-pack-demo1\bin\Debug\netstandard2.0\NugetPackDemo.pdb
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.csprojAssemblyReference.cache
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.csproj.CoreCompileInputs.cache
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.AssemblyInfoInputs.cache
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.AssemblyInfo.cs
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.dll
+C:\Users\japollac\source\repos\nuget-pack-demo1\obj\Debug\netstandard2.0\NugetPackDemo.pdb

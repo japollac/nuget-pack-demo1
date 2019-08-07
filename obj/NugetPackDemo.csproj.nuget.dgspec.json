@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\japollac\\source\\repos\\nuget-pack-demo1\\NugetPackDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\japollac\\source\\repos\\nuget-pack-demo1\\NugetPackDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\japollac\\source\\repos\\nuget-pack-demo1\\NugetPackDemo.csproj",
+        "projectName": "NugetPackDemo",
+        "projectPath": "C:\\Users\\japollac\\source\\repos\\nuget-pack-demo1\\NugetPackDemo.csproj",
+        "packagesPath": "C:\\Users\\japollac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\japollac\\source\\repos\\nuget-pack-demo1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\japollac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://pkgs.dev.azure.com/demo-org-0001/_packaging/demo-org-0001/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
