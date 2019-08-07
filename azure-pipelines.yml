@@ -47,4 +47,3 @@ steps:
     nuGetFeedType: 'internal'
     publishVstsFeed: '292b8432-2c40-4c14-a304-0e9aa02f10c5'
     allowPackageConflicts: true
-
