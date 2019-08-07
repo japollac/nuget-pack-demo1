@@ -15,8 +15,12 @@ variables:
   - name: buildPlatform
     value:  'Any CPU'
   - group: common-vars
+  - group: secure-vars
 
 steps:
+- script: |
+          echo $(demokey)
+          
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
