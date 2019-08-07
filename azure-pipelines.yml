@@ -10,9 +10,11 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  solution: '**/*.sln'
-  buildPlatform: 'Any CPU'
-  group: common-vars
+  - name: solution
+    value: '**/*.sln'
+  - name: buildPlatform
+    value:  'Any CPU'
+  - group: common-vars
 
 steps:
 - task: NuGetToolInstaller@1
