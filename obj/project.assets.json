@@ -203,7 +203,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://pkgs.dev.azure.com/demo-org-0001/_packaging/demo-org-0001/nuget/v3/index.json": {}
+        "https://pkgs.dev.azure.com/japollac/_packaging/japollac/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {

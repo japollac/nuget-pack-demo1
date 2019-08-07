@@ -3,7 +3,7 @@
   <metadata>
     <!-- Required elements-->
     <id>com.japollac.nugetpackdemo</id>
-    <version>1.0</version>
+    <version>1.1</version>
     <description>This is a demo dependency which is available via Azure DevOps Artifacts</description>
     <authors>Jan Pollack</authors>
 
