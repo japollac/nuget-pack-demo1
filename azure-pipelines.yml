@@ -20,6 +20,7 @@ variables:
 steps:
 - script: |
     echo $(demokey)
+    echo $(configuration)
   displayName: 'Show vars'
 
 - task: NuGetToolInstaller@1
